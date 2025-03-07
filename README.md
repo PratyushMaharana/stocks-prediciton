@@ -37,14 +37,14 @@ To run this project, you need to install the required libraries. Follow these st
    ```bash
    git clone https://github.com/your-username/stock-price-prediction.git
    cd stock-price-prediction
-##usage
+## usage
    jupyter notebook stock_price_prediction.ipynb
    
-   #Set the stock ticker and prediction horizon:
+   # Set the stock ticker and prediction horizon:
   ticker = 'AAPL'  # Change this to any stock symbol (e.g., 'TSLA', 'GOOGL')
 future_days = 30  # Number of days to predict into the future
 
-##Contributing
+## Contributing
 #Contributions are welcome! If you'd like to contribute, please follow these steps:
 
 Fork the repository.
